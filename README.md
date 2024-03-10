@@ -2,10 +2,6 @@ This project is a responsive website designed to manage landing pages efficientl
 
 Technologies Used:
 
-HTML5
-CSS3
-JavaScript
-TailwindCss(FrameWork)
-GitHub (for version control and project hosting)
+HTML5, CSS3, JavaScript, TailwindCss(FrameWork), GitHub(for version control and project hosting)...
 
 <img src="https://i.ibb.co/cCB0c7Z/Screenshot-2024-03-10-at-11-50-12-AM.png" alt="Screenshot-2024-03-10-at-11-50-12-AM" border="0">
